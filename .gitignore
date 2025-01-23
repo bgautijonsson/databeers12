@@ -4,3 +4,6 @@
 .httr-oauth
 .DS_Store
 .quarto
+
+aboutthemodel.qmd
+/.quarto/
