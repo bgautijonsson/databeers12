@@ -182,3 +182,11 @@ $$
 - We will keep working on this model and we'll be back for later elections
 :::
 
+## Bonus (Handball World Cup)
+
+::: {.column-screen}
+
+![](Figures/defense_offense.png){width="48%"}
+![](Figures/best_team.png){width="50%"}
+
+:::
