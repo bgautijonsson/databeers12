@@ -27,22 +27,16 @@ revealjs-plugins:
 
 [*Left to right: Agnar Freyr Helgason, Hafsteinn Einarsson, Binni, Rafael Daniel Vias*]{.team-caption}
 
-## Challenges
+## Challenges I: Lead time
 
-::: {style="font-size:90%"}
+![](Figures/book1.png){fig-align="center" width="69%"}
+![](Figures/lognmolla.jpg){width="30%"}
 
-- Pre-election polls often diverge from actual election results
-    - Time between poll and election ("lead") affects accuracy
-    - Even final polls show error beyond sampling variation
-- Adjusting for "industry effects"
-    - Polling errors are consistent across multiple elections
-    - Systematic biases affect specific parties similarly across polling houses
 
-:::
+## Challenges II: Industry biass
 
-## Challenges
-
-![](Figures/xd_error.png){fig-align="center"}
+![](Figures/book2.png){fig-align="center" width="68%"}
+![](Figures/lognmolla.jpg){width="31%"}
 
 ## The Model {data-name="Model"}
 
