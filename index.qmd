@@ -165,7 +165,7 @@ $$
 
 ![](Figures/fravik_flokkar2_transparent.png){fig-align="center"}
 
-# Recap {data-name="Recap"}
+## Recap {data-name="Recap"}
 
 
 ::: {style="font-size:70%"}
