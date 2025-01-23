@@ -27,17 +27,15 @@ revealjs-plugins:
 
 [*Left to right: Agnar Freyr Helgason, Hafsteinn Einarsson, Binni, Rafael Daniel Vias*]{.team-caption}
 
-## Challenges I: Lead time
+## Challenges {.center}
 
-![](Figures/book1.png){fig-align="center" width="69%"}
-![](Figures/lognmolla.jpg){width="29%"}
+::: {.r-stack}
+![](Figures/book1.png){fig-align="center" width="75%" .fragment style="transform: rotate(-1deg)"}
 
+![](Figures/book2.png){fig-align="center" width="70%" .fragment style="transform: rotate(7deg)"}
 
-## Challenges II: Industry biass
-
-![](Figures/book2.png){fig-align="center" width="68%"}
-![](Figures/lognmolla.jpg){width="30%"}
-
+![](Figures/lognmolla.jpg){fig-align="center" width="40%" .fragment}
+:::
 ## The Model {data-name="Model"}
 
 ::: {style="font-size:90%"}
