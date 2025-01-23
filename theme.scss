@@ -23,6 +23,11 @@ $link-hover-color:              darken($primary, 15%);
 
 /*-- scss:rules --*/
 
+h2 {
+  margin-top: 1rem !important;
+  font-size: 3rem !important;
+}
+
 .navbar {
   background-color: $white;
   margin-bottom: 20px !important;

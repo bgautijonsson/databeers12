@@ -29,6 +29,8 @@ revealjs-plugins:
 
 ## Challenges
 
+::: {style="font-size:90%"}
+
 - Pre-election polls often diverge from actual election results
     - Time between poll and election ("lead") affects accuracy
     - Even final polls show error beyond sampling variation
@@ -36,11 +38,15 @@ revealjs-plugins:
     - Polling errors are consistent across multiple elections
     - Systematic biases affect specific parties similarly across polling houses
 
+:::
+
 ## Challenges
 
 ![](Figures/xd_error.png){fig-align="center"}
 
 ## The Model {data-name="Model"}
+
+::: {style="font-size:90%"}
 
 1. **Dynamic Linear Model**
     - Tracks party support over time
@@ -51,7 +57,11 @@ revealjs-plugins:
     - Economic indicators
     - Incumbency effects
 
+:::
+
 ## Dynamic Linear Model
+
+::: {style="font-size:90%"}
 
 $$
 \text{Poll Results} \sim \text{Distribution}(\text{Support} + \text{Bias})
@@ -69,7 +79,11 @@ with:
 - Related parties tend to move together
 - Allowed amount of change scales with time between polls
 
+:::
+
 ## Reverse Time Series
+
+::: {style="font-size:90%"}
 
 - Time series usually start with an unknown initial state
 
@@ -91,13 +105,21 @@ $$
 
 - But what should $\theta$ be? 🤔
 
+:::
+
 ## Fundamentals Model
 
+::: {style="font-size:90%"}
+
 - How would we predict election results months ahead?
+
+:::
 
 ![](Figures/fundamentals.jpeg){fig-align="center"}
 
 ## Fundamentals as Prior
+
+::: {style="font-size:90%"}
 
 - Election day support depends on:
     - Previous election results
@@ -111,6 +133,8 @@ $$
 \text{Support}_T \sim \text{Normal}(\text{Fundamentals}, \text{Variance})
 \end{gathered}
 $$
+
+:::
 
 ## Fundamentals Weight
 
@@ -144,7 +168,7 @@ $$
 # Recap {data-name="Recap"}
 
 
-::: {style="font-size:60%"}
+::: {style="font-size:70%"}
 ::: columns
 ::: {.column width="50%"}
 1. **The Challenge**
