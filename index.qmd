@@ -30,13 +30,13 @@ revealjs-plugins:
 ## Challenges I: Lead time
 
 ![](Figures/book1.png){fig-align="center" width="69%"}
-![](Figures/lognmolla.jpg){width="30%"}
+![](Figures/lognmolla.jpg){width="29%"}
 
 
 ## Challenges II: Industry biass
 
 ![](Figures/book2.png){fig-align="center" width="68%"}
-![](Figures/lognmolla.jpg){width="31%"}
+![](Figures/lognmolla.jpg){width="30%"}
 
 ## The Model {data-name="Model"}
 
