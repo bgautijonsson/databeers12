@@ -2,7 +2,7 @@
 title: "Two Linear Models Walk Into a Bar"
 subtitle: "A Classical Approach to Election Forecasting"
 author:
-  - name: Brynjólfur Gauti Guðrúnar Jónsson
+  - name: Brynjólfur Gauti Guðrúnar Jónsson (Binni)
 format: 
   revealjs:
     theme: theme.scss
@@ -76,27 +76,21 @@ with:
 ## Reverse Time Series
 
 ::: {style="font-size:90%"}
-
 - Time series usually start with an unknown initial state
-
 $$
 \begin{gathered}
 \text{Support}_t = \text{Support}_{t - 1} + \text{Change} \\
 \text{Support}_0 \sim \text{Distribution}(\theta)
 \end{gathered}
 $$
-
-- We flips this and write
-
+- We flip this and write
 $$
 \begin{gathered}
 \text{Support}_t = \text{Support}_{t + 1} + \text{Change} \\
 \text{Support}_T \sim \text{Distribution}(\theta)
 \end{gathered}
 $$
-
 - But what should $\theta$ be? 🤔
-
 :::
 
 ## Fundamentals Model

@@ -9,7 +9,7 @@
 <link href="index_files/libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.6.40">
 
-  <meta name="author" content="Brynjólfur Gauti Guðrúnar Jónsson">
+  <meta name="author" content="Brynjólfur Gauti Guðrúnar Jónsson (Binni)">
   <title>Two Linear Models Walk Into a Bar</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -134,7 +134,7 @@
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
 <div class="quarto-title-author-name">
-Brynjólfur Gauti Guðrúnar Jónsson 
+Brynjólfur Gauti Guðrúnar Jónsson (Binni) 
 </div>
 </div>
 </div>
@@ -206,24 +206,18 @@ Brynjólfur Gauti Guðrúnar Jónsson
 <h2>Reverse Time Series</h2>
 <div style="font-size:90%">
 <ul>
-<li>Time series usually start with an unknown initial state</li>
-</ul>
-<p><span class="math display">\[
+<li>Time series usually start with an unknown initial state <span class="math display">\[
 \begin{gathered}
 \text{Support}_t = \text{Support}_{t - 1} + \text{Change} \\
 \text{Support}_0 \sim \text{Distribution}(\theta)
 \end{gathered}
-\]</span></p>
-<ul>
-<li>We flips this and write</li>
-</ul>
-<p><span class="math display">\[
+\]</span></li>
+<li>We flip this and write <span class="math display">\[
 \begin{gathered}
 \text{Support}_t = \text{Support}_{t + 1} + \text{Change} \\
 \text{Support}_T \sim \text{Distribution}(\theta)
 \end{gathered}
-\]</span></p>
-<ul>
+\]</span></li>
 <li>But what should <span class="math inline">\(\theta\)</span> be? 🤔</li>
 </ul>
 </div>
