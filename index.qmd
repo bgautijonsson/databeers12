@@ -122,6 +122,10 @@ $$
 
 :::
 
+## Fundamentals as Prior
+
+![](Figures/fundamentals.mp4){width="70%" fig-align="center" loop="true" autoplay="true"}
+
 ## Fundamentals Weight
 
 ![](Figures/fundamentals_weight_1month.png){fig-align="center"}
