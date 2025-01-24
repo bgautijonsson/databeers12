@@ -186,7 +186,6 @@ $$
 
 ::: {.column-screen}
 
-![](Figures/defense_offense.png){width="48%"}
-![](Figures/best_team.png){width="50%"}
+![](Figures/metill_handball.png){width="100%" fig-align="center"}
 
 :::
